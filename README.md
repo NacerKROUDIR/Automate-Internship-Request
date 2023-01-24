@@ -8,7 +8,7 @@ The next step in my process was to generate the emails that would be sent to the
 
 The first column in my Google Sheet was the Enterprise column, and the second column was the Contact column which is the Hiring Manager Name. I used these columns to create the email subject and body using the ARRAYFORMULA function to create two new columns, one for the Email Subject and one for the Email Body.
 
-![Screenshot of Example Table with Data](Google Sheet Example Table.png?raw=true)
+[Screenshot of Example Table with Data](Google Sheet Example Table.png?raw=true)
 
 The rest of the work is done in the code in this repository in Python programming language. I used [gspread] to import the data from google sheets directly into python and [smtplib] to automate sending the emails
 
