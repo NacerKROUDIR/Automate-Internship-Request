@@ -12,4 +12,4 @@ The first column in my Google Sheet was the Enterprise column, and the second co
 
 The rest of the work is done in the code in this repository in Python programming language. I used [gspread] to import the data from google sheets directly into python and [smtplib] to automate sending the emails
 
-**For more information about this project, including a detailed explanation and demonstration of the code, check out my Medium blog post [How I Automated 🤖 The Task of Looking for an Internship as Data Scientist] where I go over the process step-by-step.**
+**For more information about this project, including a detailed explanation and demonstration of the code, check out my Medium blog post [How I Automated 🤖 The Task of Looking for an Internship as Data Scientist](https://medium.com/@nacerkroudir/how-i-automated-the-task-of-looking-for-an-internship-as-data-scientist-312815ba1b6c) where I go over the process step-by-step.**
